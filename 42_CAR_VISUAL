@@ -258,7 +258,7 @@ local Message = function(_Title, _Text, Time)
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = _Title, Text = _Text, Duration = Time})
 end
 
-Message("sub to t.me/Roblox_ScriptHunters", "42 Car - VISUAL", 5)
+Message("Made by t.me/Roblox_ScriptHunters", "42 Car - VISUAL", 5)
 
 sitting = false
 coolDown = 3
